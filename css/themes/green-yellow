@@ -1,0 +1,14 @@
+/* Theme */
+
+main {
+	background: #2C6A45;
+	color: #FED200;
+}
+
+.icons-social a {
+	color: #FED200;
+}
+
+.icons-social a svg path{
+	fill: #FED200;
+}

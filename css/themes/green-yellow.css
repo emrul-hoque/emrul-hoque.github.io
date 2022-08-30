@@ -6,9 +6,14 @@ main {
 }
 
 .icons-social a {
-	color: #FED200;
+	color: #153d25;
 }
 
 .icons-social a svg path{
+<<<<<<< HEAD
 	fill: #FED200;
 }
+=======
+	fill: #153d25;
+}
+>>>>>>> 167b0e0 (updated color)
